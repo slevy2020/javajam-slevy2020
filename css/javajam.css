@@ -24,6 +24,11 @@ ul {
   list-style-image: url("images/marker.gif")
 }
 
+dd {
+    display: block;
+    margin-left: 0px;
+}
+
 footer {
   background-color: #D2B48C;
   color: #000000;
