@@ -10,5 +10,7 @@ h1 {
 
 footer {
   background-color: #D2B48C;
-  color: #000000
+  color: #000000;
+  font-style: italic;
+  font size: 100%;
 }
